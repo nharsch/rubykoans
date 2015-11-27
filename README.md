@@ -1,7 +1,7 @@
 
 # Objects
 
-* `Nil` is n object
+* `nil` is n object
 
 * assertmatch takes unquoted patterns like this:
 assert_match `/substring/` "testring"
